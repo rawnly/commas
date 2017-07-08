@@ -1,13 +1,13 @@
 {
   "name": "commas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add, Remove, Replace commas",
   "main": "index.js",
   "author": "Federico Vitale",
   "license": "MIT",
-	"scripts": {
-		"example": "./example/sample.js",
-		"test": "./test.sh",
-		"build": "git add *; git commit -a -m 'Preparing new version'; git push -u origin master; np"
-	}
+  "scripts": {
+    "example": "./example/sample.js",
+    "test": "./test.sh",
+    "build": "git add *; git commit -a -m 'Preparing new version'; git push -u origin master; np"
+  }
 }
