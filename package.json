@@ -1,7 +1,7 @@
 {
   "name": "commas",
   "version": "1.0.0",
-  "description": "Add and remove commas from numbers. 1000 -> 1,000",
+  "description": "Add, Remove, Replace commas",
   "main": "index.js",
   "author": "Federico Vitale",
   "license": "MIT",
