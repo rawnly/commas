@@ -8,6 +8,6 @@
 	"scripts": {
 		"example": "./example/sample.js",
 		"test": "./test.sh",
-		"build": "git add *; git commit -a -m 'Preparing new version'; git push -u origin master; sleep 1; np"
+		"build": "git add *; git commit -a -m 'Preparing new version'; git push -u origin master; np"
 	}
 }
