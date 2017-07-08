@@ -1,0 +1,8 @@
+{
+	"name": "Sample",
+	"version": "0.1.0",
+	"main": "sample.js",
+	"dependecies": {
+		"chalk": "~2.0.0"
+	}
+}

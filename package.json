@@ -1,0 +1,13 @@
+{
+  "name": "commas",
+  "version": "1.0.0",
+  "description": "Add and remove commas from numbers. 1000 -> 1,000",
+  "main": "index.js",
+  "author": "Federico Vitale",
+  "license": "MIT",
+	"scripts": {
+		"example": "./example/sample.js",
+		"test": "./test.sh",
+		"build": "git add *; git commit -a -m 'Preparing new version'; git push -u origin master; sleep 1; np"
+	}
+}
